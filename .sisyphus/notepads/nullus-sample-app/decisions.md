@@ -1,0 +1,2 @@
+- Kept the frontend scaffold minimal with placeholder React components only; implementation work is intentionally deferred.
+- Added a root `.gitignore` that covers backend binaries, frontend build output, and common local OS artifacts.

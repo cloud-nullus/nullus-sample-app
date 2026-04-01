@@ -1,0 +1,2 @@
+- Tailwind CSS 4 scaffold uses `@tailwindcss/vite` and `@import "tailwindcss"`; no `tailwind.config.js` needed.
+- Vite TypeScript scaffolds benefit from both `tsconfig.app.json` and `tsconfig.node.json` for app and config builds.

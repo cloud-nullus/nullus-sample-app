@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.exe
+/backend/server
+.DS_Store
